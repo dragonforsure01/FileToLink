@@ -8,6 +8,6 @@ python-dotenv
 speedtest-cli
 tgcrypto
 uvloop==0.21.0
-kurigram==2.2.6
+kurigram==2.2.17
 
 
